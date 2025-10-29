@@ -1,0 +1,25 @@
+description: A brief description of the project
+name: triss25
+origin:
+  generated: true
+  template:
+    branch: main
+    commit hash: e0a144f7a4db88197f0acdb64289d48183dd856f
+    cookiecutter:
+      _checkout: null
+      _repo_dir: /Users/jonzeolla/.cookiecutters/ai-native-python
+      _template: gh:zenable-io/ai-native-python
+      company_domain: jonzeolla.com
+      company_name: jonzeolla
+      dockerhub: 'yes'
+      github_org: jonzeolla
+      license: MIT
+      project_name: triss25
+      project_owner_github_username: jonzeolla
+      project_short_description: A brief description of the project
+      project_slug: triss25
+      public: 'yes'
+      python_version: '3.13'
+    dirty: false
+    location: https://github.com/zenable-io/ai-native-python.git
+  timestamp: '2025-10-29T11:31:13+00:00'
